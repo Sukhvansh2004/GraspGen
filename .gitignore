@@ -89,3 +89,4 @@ logs/*
 cache/
 misc/*
 data/*
+pointnet2_ops/build**
